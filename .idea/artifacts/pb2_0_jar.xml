@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pb2.0:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pb2_0_jar</output-path>
+    <root id="archive" name="pb2.0.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/phonebook/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="phonebook" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/phonebook/lib/flatlaf-3.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/phonebook/lib/flatlaf-intellij-themes-3.4.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
